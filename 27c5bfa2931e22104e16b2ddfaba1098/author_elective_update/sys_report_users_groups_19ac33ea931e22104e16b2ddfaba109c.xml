@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">5dac33ea931e22104e16b2ddfaba109b</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 05:59:54</sys_created_on>
+        <sys_id>19ac33ea931e22104e16b2ddfaba109c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5dac33ea931e22104e16b2ddfaba109b</sys_name>
+        <sys_package display_value=" Cafeteria Menu Display  " source="x_1791275_cafeteri">27c5bfa2931e22104e16b2ddfaba1098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Cafeteria Menu Display  ">27c5bfa2931e22104e16b2ddfaba1098</sys_scope>
+        <sys_update_name>sys_report_users_groups_19ac33ea931e22104e16b2ddfaba109c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 05:59:54</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value=" Cafeteria Menu Display  ">27c5bfa2931e22104e16b2ddfaba1098</application>
+        <file_path/>
+        <instance_id>607722ebff20e250c80bf8e4fc4fd960</instance_id>
+        <instance_name>dev314053</instance_name>
+        <name>sys_report_users_groups_19ac33ea931e22104e16b2ddfaba109c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">5dac33ea931e22104e16b2ddfaba109b</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-26 05:59:54</sys_created_on><sys_id>19ac33ea931e22104e16b2ddfaba109c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>5dac33ea931e22104e16b2ddfaba109b</sys_name><sys_package display_value=" Cafeteria Menu Display  " source="x_1791275_cafeteri">27c5bfa2931e22104e16b2ddfaba1098</sys_package><sys_policy/><sys_scope display_value=" Cafeteria Menu Display  ">27c5bfa2931e22104e16b2ddfaba1098</sys_scope><sys_update_name>sys_report_users_groups_19ac33ea931e22104e16b2ddfaba109c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-26 05:59:54</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>1148455899</payload_hash>
+        <record_name>5dac33ea931e22104e16b2ddfaba109b</record_name>
+        <reverted_from/>
+        <source>e7c5bf26931e22104e16b2ddfaba1088</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 05:59:54</sys_created_on>
+        <sys_id>91acff6e931e22104e16b2ddfaba102a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197aad23cac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 05:59:54</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>55acff6e231e2210560a8caf338f6a29</update_guid>
+        <update_guid_history>55acff6e231e2210560a8caf338f6a29:1148455899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-26 06:54:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>11e99d2c9c57485c82f48f03743c9210</sys_id>
+        <sys_metadata>19ac33ea931e22104e16b2ddfaba109c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5dac33ea931e22104e16b2ddfaba109b</sys_name>
+        <sys_package display_value=" Cafeteria Menu Display  " source="x_1791275_cafeteri">27c5bfa2931e22104e16b2ddfaba1098</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value=" Cafeteria Menu Display  ">27c5bfa2931e22104e16b2ddfaba1098</sys_scope>
+        <sys_scope_delete display_value="">86e444e3a4da4c3c9e6b9bf38f402a21</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_19ac33ea931e22104e16b2ddfaba109c</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_19ac33ea931e22104e16b2ddfaba109c">91acff6e931e22104e16b2ddfaba102a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-26 06:54:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
